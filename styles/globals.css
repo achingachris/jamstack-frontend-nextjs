@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  min-height: 60vh;
+}
