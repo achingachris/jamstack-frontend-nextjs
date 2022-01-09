@@ -1,0 +1,29 @@
+{
+  "aircraft": [
+    {
+      "id": "1",
+      "name": "A350",
+      "type": "Long-Haul"
+    },
+    {
+      "id": "2",
+      "name": "A380",
+      "type": "Long-Haul"
+    },
+    {
+      "id": "3",
+      "name": "A220",
+      "type": "Short-Haul"
+    },
+    {
+      "id": "4",
+      "name": "E170",
+      "type": "Short-Haul"
+    },
+    {
+      "id": "5",
+      "name": "B787",
+      "type": "Long-Haul"
+    }
+  ]
+}
