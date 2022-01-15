@@ -6,7 +6,6 @@ const AircraftServer = ({ aircraft }) => {
     <Layout>
       <div className='container'>
         <h1 className='text-center m-3'>Aircraft</h1>
-           
       </div>
     </Layout>
   )
